@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi mans! i'm here
+I like Node
